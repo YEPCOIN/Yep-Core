@@ -10,7 +10,7 @@ Yep (YEP) is a transparent, community-governed cryptocurrency aimed at preservin
 
 You bring value to the long term success of the project, not how much money you have in your pocket. Become an integral part of the network with minimal investment.
 
-More information at [yep.io](https://yep.io) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/)
+More information at [yepcoin.fr](https://yepcoin.fr) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=5098691.msg49280618#msg49280618)
 
 ### Coin Specs
 <table>
