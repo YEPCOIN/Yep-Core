@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=yep
+Comment=yep P2P Cryptocurrency
+Exec=yep-qt %u
+Terminal=false
+Type=Application
+Icon=yep128
+MimeType=x-scheme-handler/yep;
+Categories=Office;Finance;
+StartupWMClass=yep-qt
+Name[en_US]=yep-qt.desktop

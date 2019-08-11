@@ -1,0 +1,8 @@
+/usr/bin/yep-cli		--	gen_context(system_u:object_r:yep_exec_t,s0)
+/usr/sbin/yepd		--	gen_context(system_u:object_r:yep_exec_t,s0)
+/usr/lib(64)?/yep/yepd		--	gen_context(system_u:object_r:yep_exec_t,s0)
+
+/etc/yep(/.*)?		gen_context(system_u:object_r:yep_conf_t,s0)
+/var/lib/yep(/.*)?		gen_context(system_u:object_r:yep_var_lib_t,s0)
+
+(/var)?/run/yepd(/.*)?   gen_context(system_u:object_r:yep_var_run_t,s0)

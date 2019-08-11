@@ -1,0 +1,6 @@
+usr/local/bin/yep-qt usr/bin
+share/pixmaps/yep32.xpm usr/share/pixmaps
+share/pixmaps/yep16.xpm usr/share/pixmaps
+share/pixmaps/yep128.png usr/share/pixmaps
+debian/yep-qt.desktop usr/share/applications
+debian/yep-qt.protocol usr/share/kde4/services/

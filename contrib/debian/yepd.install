@@ -1,0 +1,3 @@
+usr/local/bin/yepd usr/bin
+usr/local/bin/yep-cli usr/bin
+debian/examples/yep.conf etc/yep
