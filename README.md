@@ -1,6 +1,6 @@
 Yep Core integration/staging repository
 =====================================
-[![GitHub license](https://img.shields.io/github/license/yep/yep.svg)](https://github.com/yep/yep-explorer/blob/master/COPYING) [![Build Status](https://travis-ci.com/yep/yep.svg?branch=master)](https://travis-ci.com/yep-crypto/yep-explorer) [![Discord](https://img.shields.io/discord/479050479330918410.svg)](https://discord.gg/PGJte7Y) [![GitHub version](https://badge.fury.io/gh/yep%2Fyep.svg)](https://badge.fury.io/gh/yep%2Fyep)
+ [![Build Status](https://travis-ci.com/yep/yep.svg?branch=master)](https://travis-ci.com/yep-crypto/yep-explorer) [![Discord](https://img.shields.io/discord/479050479330918410.svg)](https://discord.gg/PGJte7Y) [![GitHub version](https://badge.fury.io/gh/yep%2Fyep.svg)](https://badge.fury.io/gh/yep%2Fyep)
 <br>
 Yep (YEP) is a transparent, community-governed cryptocurrency aimed at preserving what makes DogeCoin unique while offering an alternative way for the average investor to get involved. This is done through the creation of DogeNodes, utilization of Proof of Stake, and active governance.
 
