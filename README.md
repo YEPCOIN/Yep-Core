@@ -20,8 +20,9 @@ Which has an evolutionary value that will improve:
 
 You bring value to the long term success of the project, not how much money you have in your pocket. Become an integral part of the network with minimal investment.
 
-More information at [yepcoin.io](https://yepcoin.io) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=5098691.msg49280618#msg49280618)
-
+More information at [Yepcoin.io](https://yepcoin.io) 
+Visit our announcement thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=5098691.msg49280618#msg49280618)
+YEP COIN Transaction Demo at [YEP ME](https://yepcoin.herokuapp.com/withdraw/SJD94)
 ### Coin Specs
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
